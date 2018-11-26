@@ -1,0 +1,2 @@
+Move-Item -Path C:\Users\Jroth2\Documents\Repositoryfolder\Powershell\newfilefortesting.txt -Destination C:\Users\Jroth2\Documents\Repositoryfolder\Textdocs\newfilefortesting.txt
+Move-Item -Path C:\Users\Jroth2\Documents\Repositoryfolder\Powershell\success!.txt -Destination C:\Users\Jroth2\Documents\Repositoryfolder\Textdocs\success!.txt
